@@ -4,7 +4,7 @@
         "country": "Bangkok",
         "location": "Marriot Marquis Queen's Park",
         "rating": "4.4/5",
-        "price": "149",
+        "price": 149,
         "image": "https://ak-d.tripcdn.com/images/220914000000w7ospE16C_R_550_412_R5_D.jpg"
     },
     {
@@ -12,7 +12,7 @@
         "country": "Bangkok",
         "location": "W Bangkok Hotel",
         "rating": "4.4/5",
-        "price": "220",
+        "price": 220,
         "image": "https://ak-d.tripcdn.com/images/220a0f0000007hz756A82_R_550_412_R5_D.jpg"
     },
     {
@@ -20,7 +20,7 @@
         "country": "Bangkok",
         "location": "Rosewood Bangkok",
         "rating": "4.6/5",
-        "price": "379",
+        "price": 379,
         "image": "https://ak-d.tripcdn.com/images/22071c000001daouw1904_R_550_412_R5_D.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "country": "Hong Kong",
         "location": "Iclub Fortess Hill Hotel",
         "rating": "4/5",
-        "price": "61",
+        "price": 61,
         "image": "https://ak-d.tripcdn.com/images/0223412000a8yuhdl3FB4_R_550_412_R5_D.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "country": "Hong Kong",
         "location": "Kerry Hotel Hong Kong",
         "rating": "4.5/5",
-        "price": "229",
+        "price": 229,
         "image": "https://ak-d.tripcdn.com/images/200v170000011hxr15A6B_R_550_412_R5_D.jpg"
     },
     {
@@ -44,7 +44,7 @@
         "country": "Hong Kong",
         "location": "Island Shangri-La",
         "rating": "4.6/5",
-        "price": "420",
+        "price": 420,
         "image": "https://ak-d.tripcdn.com/images/1mc2h12000art6t6s1C9A_R_550_412_R5_D.jpg"
     },
     {
@@ -52,7 +52,7 @@
         "country": "Phuket",
         "location": "The Royal Paradise Hotel & Spa",
         "rating": "3.9/5",
-        "price": "43",
+        "price": 43,
         "image": "https://ak-d.tripcdn.com/images/1mc4512000az6egxz66A7_R_550_412_R5_D.jpg"
     },
     {
@@ -60,7 +60,7 @@
         "country": "Phuket",
         "location": "The Naka Phuket",
         "rating": "3.9/5",
-        "price": "589",
+        "price": 589,
         "image": "https://ak-d.tripcdn.com/images/1mc1c12000ap8dc661EA2_R_550_412_R5_D.jpg"
     },
     {
@@ -68,7 +68,7 @@
         "country": "Phuket",
         "location": "Sri Panwa Phuket Luxuary Pool Villa Hotel",
         "rating": "4.2/5",
-        "price": "1406",
+        "price": 1406,
         "image": "https://ak-d.tripcdn.com/images/0200k120008cb8mwm128D_R_550_412_R5_D.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "country": "Shanghai",
         "location": "Yan An Hotel",
         "rating": "4.6/5",
-        "price": "69",
+        "price": 69,
         "image": "https://ak-d.tripcdn.com/images/1mc5312000aeqa8x20F82_R_550_412_R5_D.jpg"
     },
     {
@@ -84,7 +84,7 @@
         "country": "Shanghai",
         "location": "The Bund Puyan Hotel",
         "rating": "4.6/5",
-        "price": "148",
+        "price": 148,
         "image": "https://ak-d.tripcdn.com/images/0201c12000a9uwfrq7BBF_R_550_412_R5_D.jpg"
     },
     {
@@ -92,7 +92,7 @@
         "country": "Shanghai",
         "location": "Blossom House Shanghai On The Bund",
         "rating": "4.8/5",
-        "price": "127",
+        "price": 127,
         "image": "https://ak-d.tripcdn.com/images/02050120009tfjdz39329_R_550_412_R5_D.jpg"
     },
     {
@@ -100,7 +100,7 @@
         "country": "Singapore",
         "location": "Orchard Hotel Singapore",
         "rating": "4.3/5",
-        "price": "180",
+        "price": 180,
         "image": "https://ak-d.tripcdn.com/images/200l1900000180rj8E400_R_550_412_R5_D.jpg"
     },
     {
@@ -108,7 +108,7 @@
         "country": "Singapore",
         "location": "ParkRoyal Collection Pickering",
         "rating": "4.5/5",
-        "price": "548",
+        "price": 548,
         "image": "https://ak-d.tripcdn.com/images/0204h1200081bkcm8303D_R_550_412_R5_D.jpg"
     },
     {
@@ -116,7 +116,7 @@
         "country": "Singapore",
         "location": "Parkroyal On Beach Road",
         "rating": "4.4/5",
-        "price": "190",
+        "price": 190,
         "image": "https://ak-d.tripcdn.com/images/0200r120008dn3dbyEBD5_R_550_412_R5_D.jpg"
     },
     {
@@ -124,7 +124,7 @@
         "country": "Tokyo",
         "location": "Hotel Sunroute Plaza Shinjuku",
         "rating": "4.4/5",
-        "price": "339",
+        "price": 339,
         "image": "https://ak-d.tripcdn.com/images/220q050000000hwe9AEF0_R_550_412_R5_D.jpg"
     },
     {
@@ -132,7 +132,7 @@
         "country": "Tokyo",
         "location": "Hotel Metropolitan Tokyo Lkebukuro",
         "rating": "4.5/5",
-        "price": "155",
+        "price": 155,
         "image": "https://ak-d.tripcdn.com/images/220c0z000000mxwssAA37_R_550_412_R5_D.jpg"
     },
     {
@@ -140,7 +140,7 @@
         "country": "Tokyo",
         "location": "Daiwa Roynet Hotel",
         "rating": "4.5/5",
-        "price": "214",
+        "price": 214,
         "image": "https://ak-d.tripcdn.com/images/220s0x000000lkc5p7CB1_R_550_412_R5_D.jpg"
     },
     {
@@ -148,7 +148,7 @@
         "country": "Guangzhou",
         "location": "Junluxe Guangzhou Baiyun",
         "rating": "4.8/5",
-        "price": "111",
+        "price": 111,
         "image": "https://ak-d.tripcdn.com/images/1mc1912000arh120lEC31_R_550_412_R5_D.jpg"
     },
     {
@@ -156,7 +156,7 @@
         "country": "Guangzhou",
         "location": "Rezen Select Guangzhou",
         "rating": "4.8/5",
-        "price": "551",
+        "price": 551,
         "image": "https://ak-d.tripcdn.com/images/0206i12000atr6g77B30A_R_550_412_R5_D.jpg"
     },
     {
@@ -164,7 +164,7 @@
         "country": "Guangzhou",
         "location": "Holiday Villa Hotel",
         "rating": "3.9/5",
-        "price": "65",
+        "price": 65,
         "image": "https://ak-d.tripcdn.com/images/0221e12000a8z24bf3B1E_R_550_412_R5_D.jpg"
     }
 ]
